@@ -1,8 +1,11 @@
 # D3
 
 ##Collider
-We're going to be building a collider game.
-It's going be very fun.
+We're going to be building a collider game modeled off of the one here: [Epic Collider] (http://latentflip.com/LearningD3/collider/) <br>
+You can use that for inspiration, but the code is written in CoffeeScript, so while you can use it for strategy reference, it's not what you should be reverse-engineering. <br>
+Before starting, this may be a good thing to look over, as well as my powerpoints:
+[General Update Patterns in D3] (http://bl.ocks.org/mbostock/3808218).
+Let's have some coding fun! <br>
 
 ###Initialize a Game Container
 * Create an svg with a class of <b>gameCanvas</b> in your index.html
@@ -98,3 +101,7 @@ var heroR = parseFloat(d3.select('.hero'.attr('r'));
 
 ##Style your awesome game.
 ####Push it up so we can check it out.
+#Further Reading Resources:
+* [Visualizing Data with D3] (http://www.sitepoint.com/visualizing-data-d3/)
+* [Manipulating D3 Data Like a Boss] (http://www.jeromecukier.net/blog/2012/05/28/manipulating-data-like-a-boss-with-d3/)
+* [Motherlode of all D3 API information] (https://github.com/mbostock/d3/wiki/API-Reference)
