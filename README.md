@@ -5,6 +5,7 @@ We're going to be building a collider game modeled off of the one here: [Epic Co
 You can use that for inspiration, but the code is written in CoffeeScript, so while you can use it for strategy reference, it's not what you should be reverse-engineering. <br>
 Before starting, this may be a good thing to look over, as well as my powerpoints:
 [General Update Patterns in D3] (http://bl.ocks.org/mbostock/3808218).
+Remember one of the most crucial skills of a software engineer is that they can take advantage of resources and use them to navigate uncertain terrain. <br>
 Let's have some coding fun! <br>
 
 ###Initialize a Game Container
