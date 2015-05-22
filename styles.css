@@ -4,11 +4,11 @@
 Feel free to use it if you like. */
 
 .enemy {
-  fill: black;
+  fill: #238194;
 }
 
 .hero {
-  fill: green;
+  fill: #e34444;
 }
 
 .update {
@@ -25,4 +25,12 @@ Feel free to use it if you like. */
 	font-size: 1em;
 	margin-left: 50%;
 	margin-top: 50px;
+}
+
+.gameCanvas{
+	background-color: #bfb5b4;
+}
+
+html {
+	background-color: #e0e0dc;
 }
